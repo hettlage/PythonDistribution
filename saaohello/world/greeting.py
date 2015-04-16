@@ -1,2 +1,6 @@
+import numpy as np
+
+
 def greet():
-    print('Hello World!')
+    print(np.arange(10))
+
